@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/shoot.wav</SourceFile>
+  <SourceTime>2019-02-06T12:08:51.7451953-05:00</SourceTime>
+  <DestFile>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/bin/DesktopGL/Audio/shoot.xnb</DestFile>
+  <DestTime>2019-02-24T19:11:30.6981939-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2019-02-13T11:12:54.9288765-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2019-02-13T11:12:54.9288765-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

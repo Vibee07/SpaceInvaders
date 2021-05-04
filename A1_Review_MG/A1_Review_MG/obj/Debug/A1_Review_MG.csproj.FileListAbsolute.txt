@@ -1,0 +1,22 @@
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\A1_Review_MG.exe.config
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\A1_Review_MG.exe
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\A1_Review_MG.pdb
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\Animation2D.dll
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\MonoGame.Framework.dll
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\MonoGame.Framework.xml
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.csproj.CoreCompileInputs.cache
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.csproj.CopyComplete
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.exe
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.pdb
+C:\Users\Vibee\Desktop\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.csprojAssemblyReference.cache
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\A1_Review_MG.exe.config
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\A1_Review_MG.exe
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\A1_Review_MG.pdb
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\Animation2D.dll
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\MonoGame.Framework.dll
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\bin\Debug\MonoGame.Framework.xml
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.csprojAssemblyReference.cache
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.csproj.CoreCompileInputs.cache
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.csproj.CopyComplete
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.exe
+C:\Users\Vibee\Desktop\Computer Science SLSS\ICS4U1\Assignment\A1\A1_Review_MG\A1_Review_MG\obj\Debug\A1_Review_MG.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Fonts/endFont.spritefont</SourceFile>
+  <SourceTime>2019-02-24T22:20:56.2564833-05:00</SourceTime>
+  <DestFile>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/bin/DesktopGL/Fonts/endFont.xnb</DestFile>
+  <DestTime>2019-02-24T22:21:38.0819313-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-02-13T11:12:54.9288765-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-02-13T11:12:54.9288765-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

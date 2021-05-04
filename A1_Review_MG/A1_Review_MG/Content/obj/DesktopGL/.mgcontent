@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/explosion.wav</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/fastinvader1.wav</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/invaderkilled.wav</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/shoot.wav</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/SpaceInvadersMusic.mp3</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/ufo_highpitch.wav</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Audio/ufo_lowpitch.wav</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Backgrounds/gameOverLose.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Backgrounds/gameOverWin.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Backgrounds/instructionsScreen1.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Backgrounds/instructionsScreen2.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Backgrounds/SpaceBackground.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Fonts/endFont.spritefont</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Fonts/InfoText.spritefont</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Fonts/scoretext.spritefont</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/alienShip.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/ExitButton.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/ExitButton2.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/fastBullet.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/frontArrow.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/greenArrow.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/InstructionsButton.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/Laser.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/Monsters.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/PlayButton.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/returnButton.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/SettingsButton.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/SIShip.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/slowBullet.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Images/SpaceInvadersTlt.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/Barrier1.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/Barrier2.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/Barrier3.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/Barrier4.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/Barrier5.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/bigInvader.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/mediumInvader.png</File>
+    <File>C:/Users/Vibee/Desktop/ICS4U1/Assignment/A1/A1_Review_MG/A1_Review_MG/Content/Sprites/smallInvader.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
